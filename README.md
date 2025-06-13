@@ -1,10 +1,4 @@
 🎯 Face Recognition Attendance System
-<div align="center">
-[Show Image](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-Show Image
-Show Image
-Show Image
-</div>
 
 🚀 A real-time face recognition-based attendance system built with Python, OpenCV, and Firebase. This system automatically identifies students through their faces and records their attendance with a user-friendly interface.
 
@@ -207,5 +201,5 @@ cvzone for additional computer vision utilities
 
 <div align="center">
 ⭐ If this project helped you, please give it a star! ⭐
-Made with ❤️ by [Your Name]
+Made with ❤️ by Pankaj Manvani
 </div>
